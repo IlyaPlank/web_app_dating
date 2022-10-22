@@ -7,7 +7,7 @@
 
 const tg = window.Telegram.WebApp
 
-tg.ready() //tot
+tg.ready()
 </script>
 
 <style lang="scss" scoped></style>
