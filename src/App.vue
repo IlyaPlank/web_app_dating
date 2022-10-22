@@ -7,8 +7,6 @@
 
 const tg = window.Telegram.WebApp
 
-// const isLoading = ref(true)
-
 tg.ready()
 </script>
 
